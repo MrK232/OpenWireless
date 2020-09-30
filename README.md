@@ -9,3 +9,4 @@ Unfortunately, as detailed in this blog post <https://www.eff.org/deeplinks/2015
 You can still clone this repository if you wish to, and use the code however you like consistent with the Apache 2.0 license (see https://github.com/EFForg/OpenWireless/blob/master/LICENSE).
 
 If you are interested in actively maintaining this project, feel free to reach out to EFF <https://www.eff.org/contact>. Please note, however, that we don't currently have the resources to provide further support.
+This project, should everyone try it!
